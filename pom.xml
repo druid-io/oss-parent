@@ -20,7 +20,7 @@
 
     <groupId>io.druid</groupId>
     <artifactId>oss-parent</artifactId>
-    <version>2-SNAPSHOT</version>
+    <version>2</version>
     <packaging>pom</packaging>
 
     <name>Druid Parent POM</name>
@@ -45,7 +45,7 @@
         <connection>scm:git:ssh://git@github.com/druid-io/oss-parent.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/druid-io/oss-parent.git</developerConnection>
         <url>https://github.com/druid-io/oss-parent.git</url>
-        <tag>HEAD</tag>
+        <tag>oss-parent-2</tag>
     </scm>
 
     <prerequisites>
