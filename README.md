@@ -24,9 +24,9 @@
 1. [Create a Sonatype account](https://issues.sonatype.org/secure/Signup!default.jspa)
    and request to be added to the list of users with deployment permissions.
 
-1. Create a GPG key and publish it
+1. Create a GPG key and publish it.
 
-  - Generate the key
+  - Generate the key (`brew install gpg2` to get gpg2 on a Mac)
 
     ```bash
     gpg2 --gen-key
