@@ -1,7 +1,5 @@
 # Druid Parent POM
 
-## Publishing the parent POM
-
 ### Prerequisites
 
 1. Add the `sonatype-nexus-staging` entry to the `<servers>` list in your maven
